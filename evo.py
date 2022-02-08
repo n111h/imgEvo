@@ -9,7 +9,6 @@
 ####  IMPORTS  #################################################################################################################
 
 import argparse
-from pickletools import optimize
 from PIL import Image
 from random import gauss
 

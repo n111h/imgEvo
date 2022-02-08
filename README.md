@@ -52,15 +52,15 @@
 
 ### Example
 
-chic.png
-
-![chic.png](./chic.png)
-
 trex.png
 
 ![trex.png](./trex.png)
 
-`python3 evo.py "chic.png" "trex.png"`
+chic.png
+
+![chic.png](./chic.png)
+
+`python3 evo.py "trex.png" "tchic.png"`
 
 animation.gif
 
