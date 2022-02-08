@@ -1,9 +1,11 @@
-# evrything
+# everything
 *
 
 # keep
 !.gitignore
+!README.md
 !evo.py
+!evoOld.py
 !chic.png
 !trex.png
-
+!animation.gif
