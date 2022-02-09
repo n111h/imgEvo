@@ -60,7 +60,7 @@ chic.png
 
 ![chic.png](./chic.png)
 
-`python3 evo.py "trex.png" "tchic.png"`
+`$ python3 evo.py "trex.png" "chic.png"`
 
 animation.gif
 
